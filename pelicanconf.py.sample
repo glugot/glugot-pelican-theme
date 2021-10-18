@@ -54,3 +54,5 @@ BLOCKS_ORDER = [
     'Block 2 title',
     'Block 3 title',
 ]
+
+COPYRIGHT_TEXT = 'Copyright &copy; 2021 glugot'
